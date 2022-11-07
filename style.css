@@ -1,8 +1,6 @@
-
 h1 {
     position: absolute;
     font-size: 3rem;
-    background-color:  black;
 }
 
 h1::before {
