@@ -2,6 +2,7 @@
 h1 {
     position: absolute;
     font-size: 3rem;
+    background-color:  black;
 }
 
 h1::before {
@@ -13,7 +14,7 @@ h1::before {
     -webkit-text-stroke: 0vw #383d52;
     border-right: 5px solid #2cc3ff;
     overflow: hidden;
-    animation: animate 7s linear infinite;
+    animation: animate 6s linear infinite;
 }
 
 @keyframes animate {
