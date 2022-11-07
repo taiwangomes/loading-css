@@ -14,6 +14,7 @@ h1::before {
     border-right: 5px solid #2cc3ff;
     overflow: hidden;
     animation: animate 7s linear infinite;
+    background-color: black;
 }
 
 @keyframes animate {
